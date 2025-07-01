@@ -15,7 +15,12 @@
 
 - Video
   - Downloaded videos
+  - Youtube / Netflix / etc
   - Outputs
     - HDMI
    
 - Torrent + VPN
+
+- External hard drive
+
+- SSH
