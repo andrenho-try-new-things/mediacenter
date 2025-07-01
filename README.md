@@ -8,6 +8,7 @@
   - Podcasts
   - AM/FM
   - Youtube music (+ others)
+  - Rain sounds
   - Outputs
     - 3.5mm jack
     - Bluetooth
