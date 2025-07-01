@@ -25,3 +25,5 @@
 - External hard drive
 
 - SSH
+
+- Microphone and speech id
